@@ -5,7 +5,7 @@ Welcome to the BosonIc Numerical Gate Optimization (*BINGO*) package! Built with
 
 **This project is a work in progress and documentation is under developement.** 
 
-If you would like to contribute, or have any issues, comments, or questions, please open a github issue or contact: [alec.eickbusch@yale.edu](mailto:alec.eickbusch@yale.edu or jacob.curtis@yale.edu).
+If you would like to contribute, or have any issues, comments, or questions, please open a github issue or contact: [alec.eickbusch@yale.edu](mailto:alec.eickbusch@yale.edu) or [jacob.curtis@yale.edu](mailto:jacob.curtis@yale.edu).
 
 The method here is an extension of the optimization techniques developed in the paper **Eickbusch et al. "Fast universal control of an oscillator with a weak dispersive coupling to a qubit" [Nature Physics, 2022](https://www.nature.com/articles/s41567-022-01776-9)** to general parameterized gate sets, including hybrid qubit-boson gate sets.
 
